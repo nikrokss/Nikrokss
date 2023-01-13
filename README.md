@@ -5,10 +5,10 @@ I am builds well-structured, mobile friendly web pages utilizing HTML5, CSS3, Ja
 
 My skillset comprises:
 - ◆ Javascript / Angular / React / NextJS
-- ◆ Redux
+- ◆ Redux / React Router / Apollo Client
 - ◆ TypeScript
 - ◆ HTML5 / CSS3 / SCSS
-- ◆ Bootstrap / Material-UI / Ant-design / Styled Components / Tailwind CSS
+- ◆ Bootstrap / MUI / Ant-design / Styled Components / emotion / Tailwind CSS
 - ◆ Wordpress
 - ◆ Figma / Photoshop / Zeplin
 - ◆ Jest
