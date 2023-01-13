@@ -1,16 +1,15 @@
-### Hi there 👋
+### Front-end Developer
 
-<!--
-**Nikrokss/Nikrokss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am front-end developer with 2+ years of commercial work experience.
+I am builds well-structured, mobile friendly web pages utilizing HTML5, CSS3, JavaScript and preprocessors SASS. Also, I am up to utilizing modern JavaScript frameworks like Angular / React to achieve maximum productivity of websites and web apps I am works on.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My skillset comprises:
+◆ Javascript / Angular / React / NextJS
+◆ Redux
+◆ TypeScript
+◆ HTML5 / CSS3 / SCSS
+◆ Bootstrap / Material-UI / Ant-design / Styled Components / Tailwind CSS
+◆ Wordpress
+◆ GIT / GitHub
+◆ Figma / Photoshop / Zeplin
+◆ Jest
