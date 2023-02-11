@@ -8,7 +8,7 @@ My skillset comprises:
 - ◆ Redux / React Router / Apollo Client
 - ◆ TypeScript
 - ◆ HTML5 / CSS3 / SCSS
-- ◆ Bootstrap / MUI / Ant-design / Styled Components / emotion / Tailwind CSS
+- ◆ Bootstrap / MUI / Styled Components / Emotion / Tailwind CSS
 - ◆ Wordpress
 - ◆ Figma / Photoshop / Zeplin
 - ◆ Jest
