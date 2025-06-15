@@ -12,3 +12,5 @@ My skillset comprises:
 - ◆ Wordpress
 - ◆ Figma / Photoshop / Zeplin
 - ◆ Jest
+
+Email: nikrokss.contact@gmail.com
