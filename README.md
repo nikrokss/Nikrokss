@@ -9,7 +9,7 @@ I am builds well-structured, mobile friendly web pages. Also, I am up to utilizi
 - ◆ Redux Toolkit / React Router / Apollo Client
 - ◆ TanStack: Router / Query / Form / Table
 - ◆ MUI / Styled Components / Emotion / Chakra UI / Tailwind CSS / Radix UI / Shadcn/ui
-- ◆ Figma / Photoshop / Zeplin
+- ◆ Figma / Photoshop / Illustrator / Zeplin
 - ◆ Jest / Vitest
 
 ##### Backend:
