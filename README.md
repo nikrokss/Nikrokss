@@ -5,7 +5,7 @@ I am builds well-structured, mobile friendly web pages. Also, I am up to utilizi
 
 #### My skillset comprises:
 ##### Frontend:
-- Javascript / TypeScript / Angular / React / NextJS / React Native
+- Javascript / TypeScript / Angular / React / NextJS / React Native / Plasmo Framework
 - Redux Toolkit / Zustand / React Router / Apollo Client
 - TanStack: Router / Query / Form / Table
 - MUI / Styled Components / Emotion / Chakra UI / Tailwind CSS / Radix UI / Shadcn/ui
